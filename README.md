@@ -20,7 +20,7 @@ react-native link is not needed.
 
 required Props and its datatypes :
 
-1.  placeHolder  : null or Integer
+1. placeHolder  : '' or String
 
 2. getNum            : func() 
                         .returns data that is given in input field.
