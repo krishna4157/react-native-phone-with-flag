@@ -1,6 +1,6 @@
 {
   "name": "react-native-phone-with-flag",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "simple component that is used to get all flags near input field",
   "main": "index.js",
   "scripts": {
