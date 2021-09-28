@@ -1,6 +1,6 @@
 # react-native-phone-with-flag
 
-![](https://https://i.imgur.com/N39m09b.gif)
+![](https://i.imgur.com/bGdCRO4.gif)
 
 react-native-phone-with-flag is a plugin to get country flags on the left side of input component and can select any country flag from popup modal. 
 
