@@ -1,0 +1,25 @@
+{
+  "name": "react-native-phone-with-flag",
+  "version": "1.0.0",
+  "description": "simple component that is used to get all flags near input field",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna4157/react-native-phone-with-flag.git"
+  },
+  "keywords": [
+    "react-native",
+    "phone-number",
+    "react-native-flags",
+    "country-flags"
+  ],
+  "author": "krishna4157",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna4157/react-native-phone-with-flag/issues"
+  },
+  "homepage": "https://github.com/krishna4157/react-native-phone-with-flag#readme"
+}
