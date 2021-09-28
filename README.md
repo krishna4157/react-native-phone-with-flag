@@ -1,4 +1,5 @@
-# custom-image-radio-button
+# react-native-phone-with-flag
+
 to get country flags on the left side of input component. 
 
 To use this dependency in your project, the following packages are needed. 
